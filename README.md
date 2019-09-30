@@ -112,3 +112,10 @@ yum install java-1.8.0
 5. Finalmente accedemos al recurso a traves de la url que encontramos en información general
 ![image](https://user-images.githubusercontent.com/13685178/65842469-6e7a1100-e2f1-11e9-95aa-41dc864a0c05.png)
 
+## Video
+Si desea más información o un tutorial mas dinamico vea este [video](https://www.youtube.com/watch?v=9yn10a-uxVI&feature=youtu.be)
+
+## Autor 
+Santiago Rocha Durán - Escuela Colombiana de Ingenieria Julio Garavito
+## Licencia
+Este proyecto está licenciado bajo GNU General Public License - ver [LICENSE](https://github.com/Santiago-Rocha/AREM-tutorial/blob/master/LICENSE.txt) para más detalles 
