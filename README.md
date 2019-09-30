@@ -50,9 +50,11 @@ Ubicamos entonces el host de la DB en la configuracion y nos conectamos con esa 
 ![image](https://user-images.githubusercontent.com/13685178/65841804-a4b49200-e2eb-11e9-8373-dc96b1f6d844.png)
 
 3. Luego debemos modificar la entidad que va a ser mapeada de la base de datos (no olvide agregar los getters y setters de cada atributo y dos consutrctores, uno vacio y otro con todos los parametros)
+\
 ![image](https://user-images.githubusercontent.com/13685178/65841830-0543cf00-e2ec-11e9-9815-91dee3019ba3.png)
 
 4. Posteriormente debemos crear la consulta que se va a realizar a la base de datos, al igual que construir el objeto a partir de esa consulta
+\
 ![image](https://user-images.githubusercontent.com/13685178/65842562-ffe98300-e2f1-11e9-9a90-f6ffd72efd8c.png)
 
 
@@ -65,6 +67,7 @@ nos dirijimos a [localhost:8080/test](http://localhost:8080/test) y observamos q
 ahora vamos a crear un formulario simple que permita buscar los usuarios con un nombre asociado 
 
 1. Creamos una nueva consulta 
+\
 ![image](https://user-images.githubusercontent.com/13685178/65841849-420fc600-e2ec-11e9-9eb1-0ffb277ef0cc.png)
 2. Creamos otros dos controladores para manejar el get con el formulario y el post con la rspuesta
 ![image](https://user-images.githubusercontent.com/13685178/65842590-3e7f3d80-e2f2-11e9-9856-afb23ee0feb5.png)
@@ -98,6 +101,7 @@ yum install java-1.8.0
 
 ## Creación de recurso estático
 1. Nos dirijimos a la seccion de S3 y creamos un nuevo Bucket
+\
 ![image](https://user-images.githubusercontent.com/13685178/65842389-c2382a80-e2f0-11e9-8b23-72d757e347df.png)
 
 2. En la seccion de permisos desmarcamos la opcion de bloquer el accesso publico
